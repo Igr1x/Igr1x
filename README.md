@@ -7,5 +7,5 @@
 <br/>
 
 - 🌱 I’m currently learning **Kotlin**
-- 📒 Studying at Peter the Great St. Petersburg State University
-- 👾 I write in Java/Kotlin, read books, write Rust in my spare time
+- 📒 Studying at **Peter the Great St. Petersburg State University**
+- 👾 I write in **Java/Kotlin**, read **books**, write **Rust** in my spare time
