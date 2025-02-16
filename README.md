@@ -6,7 +6,5 @@
 [<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/Igr1x)
 <br/>
 
-- 🔭 I’m currently working on [Mapins](https://mapins.cloud/)
-
 - 🌱 I’m currently learning **Kotlin**
 
