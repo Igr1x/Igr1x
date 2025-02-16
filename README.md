@@ -10,6 +10,6 @@
 - 📒 Studying at **Peter the Great St. Petersburg State University**
 - 👾 I write in **Java/Kotlin**, read **books**, write **Rust** in my spare time
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igr1x&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igr1x&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igr1x&theme=github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igr1x&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igr1x&theme=github)
