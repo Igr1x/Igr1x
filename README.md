@@ -14,5 +14,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igr1x&theme=github)
 
  <!--START_SECTION:waka-->
+
+```txt
+Java              12 hrs 28 mins  ████████████████████░░░░░   80.44 %
+Kotlin            2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+SQL               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+XML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Java Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+```
+
 <!--END_SECTION:waka-->
 
