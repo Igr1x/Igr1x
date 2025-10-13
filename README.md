@@ -9,11 +9,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igr1x&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igr1x&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igr1x&theme=github)
 
- <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
